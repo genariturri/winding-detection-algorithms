@@ -1,0 +1,15 @@
+# Python and Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# Tomography data and generated outputs are not part of the repository
+*.tif
+*.tiff
+*.npz
+*.csv
+fissures_only/
+fusions_only/
+binarized_raw/
+binarized_annotated/
+spiral_sanity_check/
